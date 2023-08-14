@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello There! My name is Mats Fjeldstad. Im a 24 year old JR frontend developer based in Oslo, Norway.
 
-🌱 I’m currently playing around with React.Js, Next.JS, Viem & Supabase<br>👨‍💻 All of my projects are available at [matsfjeldstad.no](https://matsfjeldstad.no) (Under Development)<br>📫 How to reach me mats.fjeldstad@outlook.com
+🌱 I’m currently playing around with React.Js, Next.JS, Viem & Supabase<br>👨‍💻 All of my projects are available at [matsfjeldstad.no](https://matsfjeldstad.no) <br>📫 How to reach me mats.fjeldstad@outlook.com
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mats-fjeldstad-574817160/)
