@@ -1,7 +1,11 @@
 # 💫 About Me:
-Hello There! My name is Mats Fjeldstad. Im a 26 year old JR frontend developer based in Oslo, Norway.
+Hello There! My name is Mats Fjeldstad. Im a 26 year old frontend developer based in Oslo, Norway.
 
-🌱 I’m currently working around with React.Js, Next.JS, Astro & Viem for Web3 <br>📫 How to reach me hey@matsfjeldstad.no
+🌱 I’m currently working around with React.Js, Next.JS, Astro & Viem for Web3 
+
+📚 Currently looking into the world of Laravel and PHP
+
+📫 How to reach me hey@matsfjeldstad.no
 
 
 [![Check me out on LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mats-fjeldstad-574817160/)
